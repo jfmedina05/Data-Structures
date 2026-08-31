@@ -127,8 +127,6 @@ See the full documentation in the [Week 01 folder](./Week%2001/).
 
 </div>
 
-[GitHub](https://github.com/jfmedina05) | [LinkedIn](https://www.linkedin.com/in/jaiden-medina/) | [Portfolio](https://www.jaidenmedina.com)
-
 ---
 
 > **Note:** This repository is an ongoing collection of coursework and will continue to evolve as new data structures, algorithms, labs, and assignments are introduced throughout the semester.
