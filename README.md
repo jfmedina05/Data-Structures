@@ -105,15 +105,27 @@ See the full documentation in the [Week 01 folder](./Week%2001/).
 
 ## Author
 
-**Jaiden Medina**
+<div align="center">
 
-B.S. Computer Engineering
+### Jaiden Medina
 
-Minors: Intelligent Systems Engineering & Mathematics
+**B.S. Computer Engineering** · Indiana University Bloomington  
+**M.S. Intelligent Systems Engineering** · Indiana University Bloomington  
+**Minors:** Intelligent Systems Engineering & Mathematics
 
+<br>
 
-M.S. Intelligent Systems Engineering
-Indiana University Bloomington
+<a href="https://github.com/jfmedina05">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/jaiden-medina/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.jaidenmedina.com">
+  <img src="https://img.shields.io/badge/Portfolio-4285F4?logo=googlechrome&logoColor=white" alt="Portfolio">
+</a>
+
+</div>
 
 [GitHub](https://github.com/jfmedina05) | [LinkedIn](https://www.linkedin.com/in/jaiden-medina/) | [Portfolio](https://www.jaidenmedina.com)
 
