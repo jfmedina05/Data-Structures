@@ -108,7 +108,9 @@ See the full documentation in the [Week 01 folder](./Week%2001/).
 **Jaiden Medina**
 
 B.S. Computer Engineering
+
 Minors: Intelligent Systems Engineering & Mathematics
+
 
 M.S. Intelligent Systems Engineering
 Indiana University Bloomington
