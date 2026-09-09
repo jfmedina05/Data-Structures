@@ -1,0 +1,104 @@
+penup
+goto, 0, 270, 3, black
+pendown
+beginfill, pink
+goto, 67.6, 113, 3, black
+goto, 237.8, 97.3, 3, black
+goto, 109.4, -15.5, 3, black
+goto, 146.9, -182.3, 3, black
+goto, 0, -95, 3, black
+goto, -146.9, -182.3, 3, black
+goto, -109.4, -15.5, 3, black
+goto, -237.8, 97.3, 3, black
+goto, -67.6, 113, 3, black
+goto, 0, 270, 3, black
+endfill
+penup
+goto, -108, -40, 3, black
+pendown
+beginfill, green
+goto, 108, -40, 3, black
+goto, 123, -90, 3, black
+goto, 60, -90, 3, black
+goto, 0, -72, 3, black
+goto, -60, -90, 3, black
+goto, -123, -90, 3, black
+goto, -108, -40, 3, black
+endfill
+penup
+goto, -32, 65, 2, black
+pendown
+beginfill, white
+circle, 30, 2, black
+endfill
+penup
+goto, 32, 65, 2, black
+pendown
+beginfill, white
+circle, 30, 2, black
+endfill
+penup
+goto, -32, 91, 1, black
+pendown
+beginfill, black
+circle, 9, 1, black
+endfill
+penup
+goto, 32, 91, 1, black
+pendown
+beginfill, black
+circle, 9, 1, black
+endfill
+penup
+goto, -62, 148, 4, black
+pendown
+goto, -22, 157, 4, black
+penup
+goto, 22, 157, 4, black
+pendown
+goto, 62, 148, 4, black
+penup
+goto, -50, 35, 2, black
+pendown
+beginfill, black
+goto, 50, 35, 2, black
+goto, 42, -5, 2, black
+goto, 0, -20, 2, black
+goto, -42, -5, 2, black
+goto, -50, 35, 2, black
+endfill
+penup
+goto, -24, -5, 1, red
+pendown
+beginfill, red
+goto, 24, -5, 1, red
+goto, 14, -16, 1, red
+goto, 0, -20, 1, red
+goto, -14, -16, 1, red
+goto, -24, -5, 1, red
+endfill
+penup
+goto, 0, -36, 1, black
+pendown
+beginfill, black
+circle, 4, 1, black
+endfill
+penup
+goto, -65, -79, 1, purple
+pendown
+beginfill, purple
+circle, 14, 1, purple
+endfill
+penup
+goto, 65, -79, 1, purple
+pendown
+beginfill, purple
+circle, 14, 1, purple
+endfill
+penup
+goto, 0, -70, 1, purple
+pendown
+beginfill, purple
+circle, 10, 1, purple
+endfill
+penup
